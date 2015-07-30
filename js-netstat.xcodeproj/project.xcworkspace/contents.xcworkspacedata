@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:net stat.xcodeproj">
+      location = "self:/Users/julenka/devel/net stat/js-netstat.xcodeproj">
    </FileRef>
 </Workspace>
